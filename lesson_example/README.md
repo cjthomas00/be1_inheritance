@@ -7,6 +7,6 @@ We've been contracted to create an Employee Management program for ABC Company. 
 ## Instructions
 Run `ruby runner.rb` from the root of this folder (`lesson_example`). A `pry` breakpoint has been provided for you.
 
-Your instructions are to give each class (`Ceo`, `Manager`, and `Intern`) the ability to have `name` and `id` attributes. You should use the rules of inheritance to achieve this.
+Using TDD (and following the rules of inheritance), give each class (`Ceo`, `Manager`, and `Intern`) the ability to have readable `name` and `id` attributes. There is a `describe` block already set up in the respective classes where you can write your tests before your code. 
 
-Test files have already been built for you in the `spec` folder. To confirm that you've implemented inheritance correctly, run `rspec spec`. These tests *should not change* during your refactoring! If everything went well, your tests should pass both before and after the refactoring takes place. 
+To confirm that you've implemented inheritance correctly, run `rspec spec` both *before* and *after* implementing inheritance. The existing tests *should not change* during your refactoring! If everything went well, your tests should pass both before and after the refactoring takes place. 
