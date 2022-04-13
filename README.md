@@ -8,4 +8,4 @@ This repository is meant to be used in conjunction with the [lesson on Inheritan
 Starting with the `lesson_example` folder, read the `README.md` file and follow its instructions. Then, try building more classes and synthesize what you've learned in the `exercise_1` folder.
 
 ## Feedback
-Got some feedback for us? Please make a PR or create a new Issue with your suggestions! 
+Got some feedback for us? Please make a PR or create a [new Issue](https://github.com/turingschool-examples/be1_inheritance/issues/new/choose) with your suggestions! 
