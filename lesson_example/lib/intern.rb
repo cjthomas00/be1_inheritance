@@ -1,5 +1,6 @@
 class Intern
-
+  attr_reader :base_salary
+  
   def initialize(base_salary)
     @base_salary = base_salary
   end
