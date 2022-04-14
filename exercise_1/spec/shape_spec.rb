@@ -10,7 +10,7 @@ RSpec.describe Shape do
     s = Shape.new("red", 2, 4)
     expect(s.color).to eq('red')
     expect(s.length).to eq(2)
-    expect(s.width).to eq(10)
+    expect(s.width).to eq(4)
   end
 
   xit "can calculate area" do
